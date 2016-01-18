@@ -1,18 +1,22 @@
 <!doctype html>
 <html ng-app='routingApp'>
   <head>
-	<title>Angular Routing Example</title>
-	<link href="css/vendor/bootstrap.min.css" rel="stylesheet">
-	<link href="css/style.css" rel="stylesheet">
+    <title>Angular Routing Example</title>
 
-	<script src="javascript/vendor/angular.min.js"></script>
-	<script src="javascript/vendor/angular-route.min.js"></script>
+    <!-- Import CSS Files -->
+    <link href="css/vendor/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- Import Angular Libraries -->
+    <script src="javascript/vendor/angular.min.js"></script>
+    <script src="javascript/vendor/angular-route.min.js"></script>
   </head>
 
   <body>
     <div ng-view></div>
   </body>
 
+  <!-- Import Your JavaScript Files -->
   <script src='javascript/app.js'></script>
   <script src='javascript/controller.js'></script>
 </html>
