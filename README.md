@@ -2,13 +2,9 @@
 
 This project is a skeleton application to learn the basics of angular routing
 
-To clone the application use the usual git clone command from a command tool
+`git clone https://github.com/Code-Institute/angular-routing`
 
-1/ git clone https://github.com/lillylangtree/routing.git
 
-2/ the clone will create a routing folder in the current folder
+Once that command has been completed you should see the project in a folder named *angular-routing*. This folder will contain all the neccessary files to get you up and running!
 
-the project shouldn't need a local server as all files are local to the
-project
-
-just navigate to the index file in a browser.
+Just open up the `index.html` file in your browser to see it running
