@@ -17,6 +17,6 @@ In order to run this code, you will need to run the following commands:
 
 Once the above steps have been completed, you should be able to run the following command:
 
-`http-server`
+`npm start`
 
 This should serve up the content, so you can now open up your browser and in the URL bar enter `http://127.0.0.1:8080`
