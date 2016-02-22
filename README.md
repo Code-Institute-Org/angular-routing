@@ -4,7 +4,7 @@ This project is a skeleton application to learn the basics of angular routing
 
 To clone the application use the usual git clone command from a command tool:
 
-`git clone https://github.com/Code-Institute/angular-routing`
+`git clone https://github.com/Code-Institute-Org/angular-routing.git`
 
 
 Once that command has been completed you should see the project in a folder named *angular-routing*.

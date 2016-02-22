@@ -3,7 +3,7 @@
   "private": false,
   "version": "1.0.0",
   "description": "An Angular routing example",
-  "repository": "https://github.com/Code-Institute/angular-routing.git",
+  "repository": "https://github.com/Code-Institute-Org/angular-routing.git",
   "license": "MIT",
   "devDependencies": { 
     "http-server": "^0.9.0",
